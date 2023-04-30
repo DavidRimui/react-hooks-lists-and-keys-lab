@@ -14,5 +14,4 @@ function ProjectItem(props) {
     </div>
   );
 }
-
 export default ProjectItem;
